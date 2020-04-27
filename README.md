@@ -1,6 +1,9 @@
 # YAKS Step Extension
 
-Sample YAKS extension providing custom step implementations to be used in a Cloud-native BDD feature test.
+[![](https://jitpack.io/v/citrusframework/yaks-step-extension.svg)](https://jitpack.io/#citrusframework/yaks-step-extension)
+
+Sample [YAKS](https://github.com/citrusframework/yaks) extension providing custom step implementations to be used in a 
+Cloud-native BDD feature test.
 
 ## What is it!?
 
