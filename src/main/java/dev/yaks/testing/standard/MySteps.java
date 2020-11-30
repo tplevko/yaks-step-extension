@@ -22,5 +22,4 @@ public class MySteps {
         runner.given(echo("I can do whatever I want!"));
 
     }
-
 }
